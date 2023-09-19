@@ -1,1 +1,7 @@
-
+print(' NNN   S    ')
+print('N   N  S    ')
+print('N      S    ')
+print(' NNN   S    ')
+print('    N  S    ')
+print('NNN    S    ')
+print(' NNNN     ss')
