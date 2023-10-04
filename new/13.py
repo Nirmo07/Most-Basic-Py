@@ -1,6 +1,10 @@
 # Write code below 💖
-grade=int(input('enter grade between o to 100:'))
-if grade >=55:
-  print("You passed.")
+ph=int(input('enter ph value between 0 to 14:'))
+
+if ph > 7:
+  print('basic')
+elif ph < 7:
+  print('acidic')
 else:
-  print("You failed.")
+  print('neutral')
+
